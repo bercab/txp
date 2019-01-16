@@ -1,2 +1,5 @@
 *.cpp
-*.go
+moc*
+rcc*
+deploy
+qml/main.qmlc
